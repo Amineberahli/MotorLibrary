@@ -1,9 +1,9 @@
 # MotorLibrary
 
-/*
+
 * Library to control a Motor with L293D
 * Developed by Salim Khazem
-*/
+
 
 
 It is a library that allows you to control an Motor using an L293D
@@ -18,10 +18,11 @@ I used an example with the inertial unit MPU6050, I put it in the folder ../Moto
 
 
 Contribution:
+
  If you want contribute: 
- 	-Fork the project 
- 	-Add your branch 
- 	-add your commits 
- 	-Finally push your pull request
+ -Fork the project 
+ -Add your branch 
+ -add your commits 
+ -Finally push your pull request
 
 
