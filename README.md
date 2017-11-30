@@ -20,9 +20,9 @@ I used an example with the inertial unit MPU6050, I put it in the folder ../Moto
 Contribution:
 
  If you want contribute: 
- -Fork the project 
- -Add your branch 
- -add your commits 
- -Finally push your pull request
+ 	* Fork the project 
+ 	* Add your branch 
+ 	* add your commits 
+ 	* Finally push your pull request
 
 
