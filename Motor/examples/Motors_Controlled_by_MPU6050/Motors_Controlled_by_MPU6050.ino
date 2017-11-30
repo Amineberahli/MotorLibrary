@@ -59,8 +59,8 @@ void setup() {
         Fastwire::setup(400, true);
     #endif
     //put on the output the pins of motors 
-    Alpha.affectation();
-    Beta.affectation(); 
+    Alpha.begin();
+    Beta.begin(); 
 
  //myservo.attach(11); 
     // initialize serial communication
